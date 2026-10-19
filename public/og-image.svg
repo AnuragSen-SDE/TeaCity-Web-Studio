@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d4d2e"/>
+      <stop offset="100%" stop-color="#14331f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <path d="M980 120c-120 25-190 105-225 210-10 28 0 55 20 65 30 12 65-10 85-38 45-62 80-125 120-237z" fill="#faf6ee" opacity="0.92"/>
+  <text x="80" y="270" font-family="system-ui, sans-serif" font-size="72" font-weight="800" fill="#faf6ee">Teacity Web Studio</text>
+  <text x="80" y="340" font-family="system-ui, sans-serif" font-size="36" fill="#e3ede5">Websites for local businesses in Dibrugarh &amp; Tinsukia</text>
+  <text x="80" y="420" font-family="system-ui, sans-serif" font-size="28" fill="#c49a6c">By Anurag Sen — Dibrugarh, Assam</text>
+  <!-- Replace this SVG with a 1200x630 JPG/PNG for best social-share support -->
+</svg>

@@ -1,0 +1,9 @@
+# Netlify build configuration — settings live in the repo,
+# so a fresh "Import from Git" connection needs no manual setup.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
